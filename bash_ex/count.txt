@@ -1,0 +1,2 @@
+Greater than 100 * sqrt(3) / 2: 38
+Less or equal than 100 * sqrt(3) / 2: 12
